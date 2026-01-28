@@ -1,4 +1,7 @@
-# ArcRadius
+<div align="center">
+<img width="389" height="132" alt="Screenshot 2026-01-24 at 8 44 20 PM" src="https://github.com/user-attachments/assets/b2225638-19a8-4bcd-925e-328fd9cdf6ea" />
+</div>
+<br>
 
 **ArcRadius** gives LGBTQ+ young adults clear, accessible, and personalized information about how local legislation affects their daily lives.
 
