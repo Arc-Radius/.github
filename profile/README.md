@@ -4,7 +4,8 @@
 </p>
 <p align="center">
   <a href="https://arcradi.us">Product</a> ·
-  <a href="https://www.youtube.com/embed/bXaBDQ1XsBQ">Demo</a>
+  <a href="https://arcradius.org">Website</a> ·
+  <a href="https://arcradius.org/demo">Demo</a>
 </p>
 
 Arc Radius gives LGBTQ+ young adults clear, accessible, and personalized information about how local legislation affects daily life.
